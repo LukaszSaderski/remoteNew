@@ -1,4 +1,5 @@
 pierwsze zmiany;
 dodałem druga zmiane;
 Dodana trzecia zmiana;
+cout << "Dodana czwarta zmiana"<<endl;
 
